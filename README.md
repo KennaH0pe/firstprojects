@@ -1,1 +1,1 @@
-This my first ever project working on Jupyter Notebook ,it entails most effective and common tools used by Data Scientist
+This my first ever projects working in Jupyter Notebook ,writing python code,notebooks in this repository are from my hands on Labs on coursera(IBM data Science professional certificate),it entails most effective and common tools used by Data Scientist.
